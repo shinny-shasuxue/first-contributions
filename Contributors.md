@@ -4,6 +4,7 @@ Sabeel Ur Rehman
 - - [HimaTeja](https://github.com/Allibadha-Himateja): This was my first contribution
 - [Subhash Gupta](https://github.com/codesubhash234) : Starting journey with first contribution
 - [Ananya Singh](https://github.com/AS-pngg): First Contribution
+- [shasha Singh](https://github.com/AS-pngg): First Contribution
 - [Lakshita Bisht](https://github.com/LakshitaBisht11):
 - [吴博](https://github.com/JasonWuInBJ): 一起搞AI 
 - [BOUKEF Mohamed Lamine](https://github.com/Boukef): If you’re reading this, you matter. Have a great day!
